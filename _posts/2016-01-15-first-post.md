@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First post"
-image: header.jpg
+image: pt_reyes_header.jpg
 video: false
 ---
 
